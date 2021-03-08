@@ -1,4 +1,4 @@
-# NVDT0307-
+# NVDT
 A new computational method for protein-protein interaction and non-interaction predictions from the gene sequence.
 
 
